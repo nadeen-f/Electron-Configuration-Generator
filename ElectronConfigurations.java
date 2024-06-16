@@ -3,7 +3,7 @@ import java.util.Scanner;
  * Condensed Electron Configuration Generator
  * 
  * This program will write the condesned electron configuration in the full
- *      notation for any atom given it's atomic number and period
+ *      notation for any atom given it's atomic number
  * 
  * @author Nadeen
  */
